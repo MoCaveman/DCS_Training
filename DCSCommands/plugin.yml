@@ -1,0 +1,14 @@
+name: DCSCommands
+author: WCS and Dark Cave Spider
+version: 1.0.2
+main: com.xlab.DCSCommands.Main
+description: A night Vision Toggle command 
+commands:
+  nv:
+    description: Toggles Night Vision on and off
+  gsword:
+    description: Give God Sword
+    # Permissions
+    #
+    # DCSCommands.nv   ( does player have perm to enter night vision mode ) 
+    # DCSCommands.gsword ( does player have perm to call a god sword ) 

@@ -1,0 +1,7 @@
+name: DCSUtilities
+author: DCS
+version: 1.0 (ALPHA)
+main: com.xlab.DCSUtilities
+commands: 
+  GSword: 
+    Description: Gives player god sword
